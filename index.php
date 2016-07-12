@@ -2,6 +2,13 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8"/>
+
+		<!--adding.custom.CSS-->
+		<link href="CSS/style.css" rel="stylesheet" type="text/css"/>
+
+		<!--adding custom JavaScript-->
+		<script src="js/custom.js" type="text/javascript"></script>
+
 		<title>:) My Basic HTML Page :) </title>
 	</head>
 	<body>
@@ -10,8 +17,12 @@
 		</header>
 
 		<h3>** Make it so **</h3>
+		<!--.Start.Main.Content.Here.-->
+		<!---->
+		<!---->
 
 		<main>
+			<!--.Comment.Text.Goes.Here.-->
 
 			<p>
 				Unidentified <strong> nuclear wessels</strong> travelling at sub warp speed, bearing 235.73. Fluctuations in energy readings from it, Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.
